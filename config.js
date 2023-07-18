@@ -1,5 +1,5 @@
 // Server configuration
-export const SERVER_PORT = 3000; // Server port
+export const SERVER_PORT = 44032; // Server port
 export const DEBUG = false; // Debug mode
 
 // Prompt Moderation before sending to OpenAI
@@ -17,7 +17,5 @@ export const WHITELISTED_IPS = [
 // OpenAI API Keys
 export let OPENAI_KEYS = [
     "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "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",
 ];
